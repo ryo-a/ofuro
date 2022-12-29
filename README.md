@@ -68,7 +68,7 @@ $ ofuro auto-stop
 
 ### 追いだき
 
-追いだきモードのボタン操作に相当するものです。`auto`で開始、`auto-stop`で中断できます。
+追いだきモードのボタン操作に相当するものです。`reheat`で開始、`reheat-stop`で中断できます。
 
 ```
 $ ofuro reheat
