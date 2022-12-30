@@ -1,7 +1,12 @@
 # ofuro
+
 ofuro（おふろ）は ECHONET Lite プロトコルを用いて給湯器を制御するコマンドラインツールのデモ実装です。
 
 仕様上は ECHONET Lite に対応した給湯リモコンにはすべて対応しているはずですが、作者はノーリツ製 **RC-G001MW-2** で動作を確認しています。
+
+**動作する様子の動画はこちら: https://www.youtube.com/watch?v=NnpHsreI_QE**
+
+解説記事はこちら: https://zenn.dev/ryo_a/articles/c9f515309d6f0b
 
 ## 注意事項
 

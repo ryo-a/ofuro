@@ -1,6 +1,6 @@
 {
   "name": "ofuro",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "ofuroはECHONET Liteプロトコルを用いて給湯器を制御するコマンドラインツールです",
   "main": "index.js",
   "bin": {

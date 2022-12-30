@@ -142,8 +142,8 @@ function showStatus(obj) {
 
     const items = [
         ['項目名', '値'],
-        ['システム', pwr],
-        ['異常発生', emgStatus],
+        ['システム電源', pwr],
+        ['ステータス', emgStatus],
         ['給湯器燃焼状態', showerBoilerStatus],
         ['給湯温度', `${showerTemperature}℃`],
         ['給湯器燃焼状態（風呂）', bathBoilerStatus],
